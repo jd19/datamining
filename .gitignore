@@ -25,3 +25,8 @@ hs_err_pid*
 .idea
 dm.iml
 
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+src/
